@@ -17,6 +17,7 @@ Sigue estas instrucciones para obtener una copia del proyecto en funcionamiento 
 - Python 3.x
 - Requests library
 - BeautifulSoup library
+- .NET 8
 
 ```sh
 pip install requests
